@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main() {
-        char s[1001];
-        int t;
+        int s[1001], t;
         for(int i = 0; i < 1001; i++) {
                 s[i] = 0;
         }
